@@ -3,7 +3,7 @@ import ssl
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-url = "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://qrcode-asaq-shahd.vercel.app/"
+url = "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://aswaq-shahd.vercel.app/"
 output_path = "assets/img/website_qr.png"
 
 try:

@@ -145,6 +145,14 @@ class App {
 
         // Reset scroll when closing
         this.galleryIndex = 0;
+
+        // Floating Contact Button
+        const floatingMainBtn = document.getElementById('floating-main-btn');
+        if (floatingMainBtn) {
+            floatingMainBtn.addEventListener('click', () => {
+                document.querySelector('.floating-contact-container').classList.toggle('active');
+            });
+        }
     }
     
     handleSwipe() {
