@@ -87,7 +87,7 @@ const products = [
         oldPrice: 42.00,
         category: "food",
         image: "assets/img/juhayna_yogurt.png",
-        offer: true
+        offer: false
     },
     {
         id: 10,
@@ -116,7 +116,7 @@ const categoryNames = {
     food: "مواد غذائية",
     drinks: "مشروبات",
     clean: "منظفات",
-    fresh: "خضار وفواكه"
+    fresh: " خضار وفواكه"
 };
 
 const catalogPages = [
