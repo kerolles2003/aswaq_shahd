@@ -158,10 +158,5 @@ const catalogPages = [
     "assets/img/ramadan/36.jpg",
     "assets/img/ramadan/37.jpg",
     "assets/img/ramadan/38.jpg",
-    "assets/img/ramadan/39.jpg",
-    "assets/img/40.jpg",
-    "assets/img/41.jpg",
-    "assets/img/42.jpg",
-    "assets/img/43.jpg",
-    "assets/img/44.jpg"
+    "assets/img/ramadan/39.jpg"
 ];
